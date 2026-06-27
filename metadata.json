@@ -1,0 +1,6 @@
+{
+  "name": "iLoveMedia Suite",
+  "description": "An all-in-one powerful web suite combining iLovePDF and iLoveIMG features. Merge, split, compress, protect, watermark, convert, crop, resize, rotate, and enhance your files entirely inside your browser.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
